@@ -13,7 +13,7 @@ The function of this tool is to scrape all the channel's an individual is subscr
 
 - For Chrome, download the appropriate webdriver from here: http://chromedriver.chromium.org/downloads, unzip it and save in current directory
 
-### Behavior
+## Behavior
 
 Given the url for the channels a person is subscribed to our tool retrive:
 
@@ -23,13 +23,13 @@ Given the url for the channels a person is subscribed to our tool retrive:
 - The description of each video that was posted in the last month
 - Any deals that are found from the descriptions of these videos
 
-### How to use
+## How to use
 
 - Import the necessary libraries and functions from selenium.webdriver
 - Change the path of the driver to wherever it was downloaded
 - In the **TEST SECTION** input the Youtube link to your subscribed channels
 
-### Code Walk Through
+## Code Walk Through
 
 **get_subs_soup(url,driver)**
 - Takes in the url and the driver as an input
