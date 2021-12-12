@@ -3,6 +3,9 @@
 
 The function of this tool is to scrape all the channels an individual is subscribed to and acquire all kinds of promo codes, deals and discounts. People spend a lot of time on Youtube watching all kinds of different videos and it can be hard to keep track of all the promotions, giveaways or discounts that they come across. Our tool will help them to identify the videos from the channels they are subscribed too that contain promotions, discounts or promo codes.
 
+Video presentation: https://youtu.be/vCFmeIvvwSU
+
+
 ## System Requirements
 
   #install bs4
@@ -29,7 +32,7 @@ Given the url for the channels a person is subscribed to our tool retrive:
 - Change the path of the driver to wherever it was downloaded
 - In the **TEST SECTION** input the Youtube link to your subscribed channels
 
-Video tutorial: https://youtu.be/vCFmeIvvwSU
+
 
 ## Code Walk Through
 
@@ -78,7 +81,8 @@ Video tutorial: https://youtu.be/vCFmeIvvwSU
 **Audrey Godsell (godsell3)**
 - Worked on get_desc, debugging, and the project video
 
-Olivia Park
+**Olivia Park (opark3)**
+- Worked on get_subs_soup, get_all_video_links, get_desc, find_deal and the Test Section
 
 **Ani Pirosmanishvili (anip2)**
 - Worked on scrape_subs_page, get_all_video_links, get_dates_scrape and the Test Section
