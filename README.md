@@ -1,7 +1,7 @@
 *This is the final course project for **CS 410 - Text Retrieval & Mining** course at the University of Illinois at Urbana-Champaign.*
 
 
-The function of this tool is to scrape all the channels an individual is subscribed to and acquire all kinds of promo codes, deals and discounts. People spend a lot of time on Youtube watching all kinds of different videos and it can be hard to keep track of all the promotions, giveaways or discounts that they come across. Our tool will help them to identify the videos from the channels they are subscribed too that contain promotions, discounts or promo codes.
+The function of this tool is to scrape all the channels an individual is subscribed to and acquire all kinds of promo codes, deals and discounts. People spend a lot of time on Youtube watching all kinds of different videos and it can be hard to keep track of all the promotions, giveaways or discounts that they come across. Our tool will help them to identify the videos from the channels they are subscribed to that contain promotions, discounts or promo codes.
 
 Video presentation: https://youtu.be/vCFmeIvvwSU
 
