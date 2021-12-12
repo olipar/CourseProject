@@ -1,7 +1,7 @@
 *This is the final course project for **CS 410 - Text Retrieval & Mining** course at the University of Illinois at Urbana-Champaign.*
 
 
-The function of this tool is to scrape all the channels an individual is subscribed to and acquire all kinds of promo codes, deals and discounts. People spend a lot of time on Youtube watching all kinds of different videos and it can be hard to keep track of all the promotions, giveaways or discounts that they come across. Our tool will help them to identify the videos from the channels they are subscribed too that contain promotions, discounts or promo codes.
+The function of this tool is to scrape all the channel's an individual is subscribed to and acquire all kinds of promo codes, deals and discounts. People spend a lot of time on Youtube watching all kinds of different videos and it can be hard to keep track of all the promotions, giveaways or discounts that they come across. Our tool will help them to identify the videos from the channel's they are subscribed too that containt promotions, discounts or promo codes.
 
 ## System Requirements
 
@@ -28,8 +28,6 @@ Given the url for the channels a person is subscribed to our tool retrive:
 - Import the necessary libraries and functions from selenium.webdriver
 - Change the path of the driver to wherever it was downloaded
 - In the **TEST SECTION** input the Youtube link to your subscribed channels
-
-Video tutorial: https://youtu.be/vCFmeIvvwSU
 
 ## Code Walk Through
 
@@ -75,10 +73,10 @@ Video tutorial: https://youtu.be/vCFmeIvvwSU
 
 ## Contributions
 
-**Audrey Godsell (godsell3)**
-- Worked on get_desc, debugging, and the project video
+Audrey Godsell
 
 Olivia Park
+-Worked on get_subs_soup, get_all_video_links, get_desc, find_deal and the Test Section
 
 **Ani Pirosmanishvili (anip2)**
 - Worked on scrape_subs_page, get_all_video_links, get_dates_scrape and the Test Section
