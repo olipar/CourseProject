@@ -68,8 +68,7 @@ Given the url for the channels a person is subscribed to our tool retrive:
 - Parses the loaded HTML as BeautifulSoup object
 - Returns if the video contains any promotions, promo codes, discounts and sales
 
-- **Test Section** is where you can input the desired link for the subscribed channels in the following format:
-{INSERT PICTURE}
+- **Test Section** is where you can input the desired link for the subscribed channels and get an output in the following format:
 
 
 ## Contributions
